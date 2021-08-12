@@ -1,7 +1,7 @@
 class Node:
-    def __init__(self, elem=None, next=None):
+    def __init__(self, elem=None):
         self.__elem = elem
-        self.__next = next
+        self.__next = None
 
     @property
     def elem(self):
