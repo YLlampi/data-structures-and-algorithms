@@ -1,6 +1,8 @@
 digraph G {
+x0[label="0"];
+x0->x1[arrowhead = normal];
+x0->x2[arrowhead = normal];
 x1[label="1"];
-x1->x2[arrowhead = normal];
 x1->x3[arrowhead = normal];
 x2[label="2"];
 x2->x3[arrowhead = normal];
