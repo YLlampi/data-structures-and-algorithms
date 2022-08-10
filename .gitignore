@@ -1,0 +1,7 @@
+# .gitignore
+
+/venv
+/.vscode
+*.out
+*.in
+*eject
